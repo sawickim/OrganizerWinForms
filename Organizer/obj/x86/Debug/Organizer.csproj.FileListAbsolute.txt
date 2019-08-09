@@ -1,0 +1,8 @@
+C:\Praca\c#\Organizer\Organizer\bin\Debug\Organizer.exe
+C:\Praca\c#\Organizer\Organizer\bin\Debug\Organizer.pdb
+C:\Praca\c#\Organizer\Organizer\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Praca\c#\Organizer\Organizer\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Praca\c#\Organizer\Organizer\obj\x86\Debug\Organizer.csproj.GenerateResource.Cache
+C:\Praca\c#\Organizer\Organizer\obj\x86\Debug\Organizer.exe
+C:\Praca\c#\Organizer\Organizer\obj\x86\Debug\Organizer.pdb
+C:\Praca\c#\Organizer\Organizer\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
